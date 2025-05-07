@@ -83,9 +83,6 @@ text-transform: capitalize;
     width: fit-content;
 }
 
-
-
-
 .back{
     background-color:darkblue;
     height: 200px;
@@ -94,21 +91,17 @@ text-transform: capitalize;
     height: 100px;
     width: 100px;
     padding-left: 45%;
-
 }
 .logo1{
     display: flex;
-  
 }
 .logo1 li{
     color: white;
-    list-style:none;
-    
+    list-style:none;   
 }
 .back h3{
     color: white;
     padding-left: 46%;
     text-transform: capitalize;
     padding-top: 10px;
-
 }
